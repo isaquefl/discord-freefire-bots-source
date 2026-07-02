@@ -1,4 +1,4 @@
-# 🎲 Discord Betting Bots — Source Collection
+# 🔥 Discord Free Fire Bots — Source Collection
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)](https://discord.js.org/)
@@ -77,7 +77,7 @@ Requisitos: **Node.js 18+** (recomendado para discord.js v14) e um aplicativo de
 ## 🗂️ Estrutura
 
 ```
-discord-betting-bots-source/
+discord-freefire-bots-source/
 ├── aposta-ff/          # Filas + permissões (wio.db, SquareCloud)
 ├── autoral-apostas/    # Saldo, Mines, Pix/Mercado Pago, canvas
 ├── apostado-ff/        # Filas 2v2 minimalista
@@ -101,7 +101,7 @@ Distribuído sob a licença [MIT](./LICENSE) na medida do aplicável aos arquivo
 
 ---
 
-# 🎲 Discord Betting Bots — Source Collection (English)
+# 🔥 Discord Free Fire Bots — Source Collection (English)
 
 [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D18-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![discord.js](https://img.shields.io/badge/discord.js-v14-5865F2?logo=discord&logoColor=white)](https://discord.js.org/)
@@ -180,7 +180,7 @@ Requirements: **Node.js 18+** (recommended for discord.js v14) and a bot applica
 ## 🗂️ Structure
 
 ```
-discord-betting-bots-source/
+discord-freefire-bots-source/
 ├── aposta-ff/          # Queues + permissions (wio.db, SquareCloud)
 ├── autoral-apostas/    # Balance, Mines, Pix/Mercado Pago, canvas
 ├── apostado-ff/        # Minimalist 2v2 queues
