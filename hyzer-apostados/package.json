@@ -1,0 +1,17 @@
+{
+  "name": "apostaff",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dz7",
+  "license": "ISC",
+  "description": "Bot de aposta feito pelo dz7 da suflay",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.15.3",
+    "wio.db": "^4.0.22"
+  }
+}

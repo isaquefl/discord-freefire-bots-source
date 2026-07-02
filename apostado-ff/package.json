@@ -1,0 +1,12 @@
+{
+  "name": "meu-bot",
+  "version": "1.0.0",
+  "description": "Bot do Discord com sistema de filas 2v2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
